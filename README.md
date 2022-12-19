@@ -1,4 +1,5 @@
 # Sequential-Learning-NLP-BERT
+The project is an idea of building an application(Web/Mobile) that classify the type of sentence/s based on the semantic nature of sentence and also evaluate the writing skills of a document. Technically speaking: 
 Accessing the Writing skills of a document/author by classifiying the statements and sentences into different classes based on the sequential learning using Pre-trained models from BERT. Rating the document based on the score obtained from the classes for each statement/sentence.
 
 Writing is a critical skill for success. However, less than a third of high school seniors are proficient writers, according to the National Assessment of Educational Progress. Unfortunately, low-income, Black, and Hispanic students fare even worse, with less than 15 percent demonstrating writing proficiency. One way to help students improve their writing is via automated feedback tools, which evaluate student writing and provide personalized feedback.
