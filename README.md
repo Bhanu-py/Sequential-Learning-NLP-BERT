@@ -7,3 +7,5 @@ Writing is a critical skill for success. However, less than a third of high scho
 There are currently numerous automated writing feedback tools, but they all have limitations. Many often fail to identify writing structures, such as thesis statements and support for claims, in essays or do not do so thoroughly. Additionally, the majority of the available tools are proprietary, with algorithms and feature claims that cannot be independently backed up. More importantly, many of these writing tools are inaccessible to educators because of their cost. This problem is compounded for under-serviced schools which serve a disproportionate number of students of color and from low-income backgrounds. In short, the field of automated writing feedback is ripe for innovation that could help democratize education.
 
 ![image](https://user-images.githubusercontent.com/57532016/207398973-0b86d343-2bf5-48b6-8dd0-0dd58e5daa1f.png)
+
+![image](https://user-images.githubusercontent.com/57532016/209574650-e57de93b-a3de-4f7d-affb-307fa25c63de.png)
